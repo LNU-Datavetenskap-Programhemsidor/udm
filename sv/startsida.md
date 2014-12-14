@@ -1,4 +1,4 @@
-Detta är en sajt för och av studenter och lärare på UDM vid Linnéuniversitetet i Kalmar. Du som är sugen att påä att läsa programmet kan hitta mycket värdefull information här.
+Detta är en sajt för och av studenter och lärare på UDM vid Linnéuniversitetet i Kalmar. Du som är sugen att på att läsa programmet kan hitta mycket värdefull information här.
 
 Nästa sökbara utbildningsstart är HT2015 med sista ansökningsdag 2015-04-15.
 
