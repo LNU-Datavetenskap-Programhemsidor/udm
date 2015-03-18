@@ -6,4 +6,3 @@ Institutionen för datavetenskap<br />
 0480-497705
 
 jacob.lindehoff@lnu.se<br />
-:smile:
