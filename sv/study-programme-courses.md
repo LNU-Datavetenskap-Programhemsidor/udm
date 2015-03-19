@@ -84,6 +84,7 @@ Avancerade tekniker och metoder för mjukvarudesign.
 
 ## <a name="exjobb"></a>Självständigt arbete/Valfri kurs i annat ämne
 Efter två år så kan man ta ut en generell högskoleexamen då läser man denna kusen. Om man där emot vill läsa hela programmet så ska man här läsa en [kurs i annat ämen](#annat)
+
 **Självständigt arbete**
 Självständigt arbete omfattande teoretisk och experimentell verksamhet med åtföljande rapportskrivning och muntlig presentation
 * [Kursplan](http://prod.kursinfo.lnu.se/utbildning/GenerateDocument.ashx?templatetype=coursesyllabus&amp;code=exjobb&amp;documenttype=pdf&amp;lang=sv)
