@@ -1,4 +1,4 @@
-*Ort:* Kalmar
+*Ort:* Oberoende
 *Start:* HT2015
 *Sista anmälan:* 15/4 2015
 *Anmälningskod:* [LNU-61013](https://www.antagning.se/se/search?period=HT_2015&freeText=+LNU-61013)
