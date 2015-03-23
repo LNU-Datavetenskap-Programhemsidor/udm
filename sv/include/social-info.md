@@ -6,4 +6,4 @@ Mail: [udm@lnu.se](mailto:udm@lnu.se)
 
 Facebook-sida: [Utveckling och drift av mjukvarusystem](https://www.facebook.com/utvecklingochdriftavmjukvarusystem)
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/kOG0cwGBjH4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOG0cwGBjH4" frameborder="0" allowfullscreen></iframe>
