@@ -3,6 +3,7 @@ Välkommen som ny programstudent! På denna sida hittar du all information som g
 Har du inte ännu tittat på [informationen för dig som är ny student 2015](//coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny2015/) så ber jag dig börja med det.
 
 Introduktionen sker sedan i tre steg:
+
 1. Välkomnande av alla IT-studenter (Webbprogrammerare, Utveckling och drift av mjukvarusystem, Interaktionsdesigner)
 2. Rundvandring och programintroduktion tillsammans med programmet
 3. Kursintroduktioner i Grundläggande programmering samt Webbteknik 1
@@ -26,7 +27,7 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
 ##2. Introduktionsföreläsning
 [cp-message-box type="schedule" header="När, var?" class="table-cell"]Måndagen den 31 augusti kl. 11.15
 
-<del>1. På plats: Sal Ny110
+1. På plats: Sal Ny110
 2. På distans: http://connect.sunet.se/udm
 [/cp-message-box]
 
