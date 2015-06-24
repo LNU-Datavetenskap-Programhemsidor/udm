@@ -38,7 +38,7 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
   <div class="message-box-content">
     Måndagen den 31 augusti kl. 11.15 <br />
     1. På plats: Sal Ny110 <br />
-    2. På distans: http://connect.sunet.se/udm
+    2. På distans: <a href="http://connect.sunet.se/udm">http://connect.sunet.se/udm</a>
   </div>
 </article>
 
@@ -50,7 +50,7 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
   <div class="message-box-content">
     Måndage den 31 augusti kl. 14.15 <br />
     1. På plats: Sal Ny105 <br />
-    2. På distans: https://connect.sunet.se/lecture-1dv021
+    2. På distans: <a href="https://connect.sunet.se/lecture-1dv021">https://connect.sunet.se/lecture-1dv021</a> <br />
     För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a>
   </div>
 </article>
