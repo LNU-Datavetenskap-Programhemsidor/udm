@@ -18,34 +18,54 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
 [Karta över Campus Kalmar](http://orion.lnu.se/pub/education/programme/webbprogrammerare/student/introduktion/2012/Karta%20%C3%B6ver%20LNU,%20campus%20Kalmar.pdf)
 
 ##1. Välkomnande, Kalmarsund
-[cp-message-box type="schedule" header="När, var?" class="table-cell"]Måndagen den 31 augusti kl. 09.15
+<article class="message-box table-cell schedule">
+            <header class="message-box-header">
+                <h2><span>När, var?</span></h2>
+            </header>
+            <div class="message-box-content">Måndagen den 31 augusti kl. 09.15
 
 1. På plats: [Sal, Kalmarsund](http://www.hitta.se/LargeMap.aspx?z=1&amp;mp=%3Cpts%3E%3Cpt%20x%3D%221533942%22%20y%3D%226283593%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533904%22%20y%3D%226283716%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533815%22%20y%3D%226283590%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EHuvudentr%E9%2C%20Kalmar%20Nyckel%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533769%22%20y%3D%226283604%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3ESal%3A%20Kalmarsund%3C/t%3E%3C/pt%3E%3C/pts%3E)
 2. På distans: https://connect.sunet.se/kalmarsund/
-[/cp-message-box]
+</div>
+</article>
 
 ##2. Introduktionsföreläsning
-[cp-message-box type="schedule" header="När, var?" class="table-cell"]Måndagen den 31 augusti kl. 11.15
+<article class="message-box table-cell schedule">
+            <header class="message-box-header">
+                <h2><span>När, var?</span></h2>
+            </header>
+            <div class="message-box-content">Måndagen den 31 augusti kl. 11.15
 
 1. På plats: Sal Ny110
 2. På distans: http://connect.sunet.se/udm
-[/cp-message-box]
+</div>
+</article>
 
 ##3. Kursintroduktioner
-[cp-message-box type="schedule" header="Grundläggande programmering" class="table-cell"]Måndage den 31 augusti kl. 14.15
+<article class="message-box table-cell schedule">
+            <header class="message-box-header">
+                <h2><span>Grundläggande programmering</span></h2>
+            </header>
+            <div class="message-box-content">Måndage den 31 augusti kl. 14.15
 1. På plats: Sal Ny105
 2. På distans: https://connect.sunet.se/lecture-1dv021
 
 För mer information och inspelning se [kursens webbplats.](https://coursepress.lnu.se/kurs/grundlaggande-programmering)
-[/cp-message-box]
+</div>
+</article>
 
-[cp-message-box type="schedule" header="Webbteknik I" class="table-cell"]
+<article class="message-box table-cell schedule">
+            <header class="message-box-header">
+                <h2><span>Webbteknik I</span></h2>
+            </header>
+            <div class="message-box-content">
 T.B.A
 1. På plats: T.B.A
 2. På distans: T.B.A
 
 För mer information och inspelning se [kursens webbplats.](http://medieteknik.lnu.se/1me321/)
-[/cp-message-box]
+</div>
+</article>
 
 ##Studerandeavdelningens film om stöd och vägledning
 <iframe src="//www.youtube.com/embed/REKCWTh2xmY?rel=0" frameborder="0" width="853" height="480"></iframe>
