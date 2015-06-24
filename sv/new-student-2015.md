@@ -75,9 +75,9 @@ Utrustningskrav distans:
 För att kommunicera med kursledningen och genomföra redovisningar etc. används ofta programvaran [Skype](http://www.skype.se/) som jag rekommenderar att du installerar och provar redan innan kursstart (om du inte redan använder den det vill säga).
 Förutom Skype så används även [Adobe Connect](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-.html) flitigt för exempelvis strömmande föreläsningar och laborationer. För att Adobe Connect ska fungera så behöver du ha [Flash](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-/innan-du-borjar.html) installerat i din webbläsare, gärna senaste versionen.
 
-För att sköta kommunikation i kurser, chatta med kurskamrater etc. så använder vi webbtjänsten [“Slack“](http://coursepress.slack.com/). Här har du en utmärkt möjlighet att få all hjälp du behöver i början av dina studier. Logga in redan idag! För att logga in krävs det att du skapar ett nytt konto på Slack med din [e-postadress](http://lnu.se/student/vi-hjalper-dig/it-och-support/e-post) som är kopplad till ditt datorkonto.
+För att sköta kommunikation i kurser, chatta med kurskamrater etc. så använder vi webbtjänsten [Slack](http://coursepress.slack.com/). Här har du en utmärkt möjlighet att få all hjälp du behöver i början av dina studier. Logga in redan idag! För att logga in krävs det att du skapar ett nytt konto på Slack med din [e-postadress](http://lnu.se/student/vi-hjalper-dig/it-och-support/e-post) som är kopplad till ditt datorkonto.
 * [Skype](http://www.skype.se/) 
-* [“Slack“](http://coursepress.slack.com/)
+* [Slack](http://coursepress.slack.com/)
 * [Adobe Connect](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-.html)
 
 ##Hur ska jag förbereda mig?
@@ -100,6 +100,3 @@ Enklaste sättet att få svar på frågor är genom att använda vår grupp i [s
 Återigen, Välkommen till två spännande och intressanta år!
 
 /Jacob Lindehoff (jacob.lindehoff@lnu.se, @lindehoff)
-
-[cp-message-box type="information" header="Välkomstbrev"][Välkomstbrev till antagna HT2015](http://lnu.se/utbildning/program/ngudm/valkommen-ht-2015)
-[/cp-message-box]
