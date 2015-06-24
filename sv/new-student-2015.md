@@ -29,10 +29,11 @@ Jag har sammanställt en enkel [karta över Kalmar Nyckel](http://www.hitta.se/L
 ##Datorkonto
 Ett av de viktigaste momenten för dig att så tidigt som möjligt ordna upp är att se till att du kvitterar ut ditt datorkonto. Med hjälp av kontot så kan du bland annat:
 
-Registrera dig på de kurser du ska läsa.
-Få tillgång till ett mailkonto som används för att göra viktiga utskick till dig.
-Få tillgång till speciella utbildningsresurser på andra tjänster som t.ex. GitHub.
-Kunna koppla upp din privata dator mot Universitetets nät.
+* Registrera dig på de kurser du ska läsa.
+* Få tillgång till ett mailkonto som används för att göra viktiga utskick till dig.
+* Få tillgång till speciella utbildningsresurser på andra tjänster som t.ex. GitHub.
+* Kunna koppla upp din privata dator mot Universitetets nät.
+
 Här hittar du [instruktioner för hur du hämtar ut ditt datorkonto](https://accountcheckout.lnu.se/SelectLanguage.aspx). Har du möjlighet så försök ordna ditt datorkonto redan innan uppropet. För dig som läser på distans är det än viktigare att fixa datorkontot så fort som möjligt.
 
 ##Kurslitteratur
@@ -41,16 +42,16 @@ Det kan vara en god idé att beställa kurslitteratur till höstens första kurs
 De två kurser du kommer att inleda dina studier med är “[Grundläggande programmering](https://coursepress.lnu.se/kurs/grundlaggande-programmering/)” och “[Webbteknik I](http://medieteknik.lnu.se/1me321/)“.
 
 Grundläggande programmering:
-    * http://eloquentjavascript.net/
+* http://eloquentjavascript.net/
 Information kring kurslitteratur till denna kurs [hittar du här](https://coursepress.lnu.se/kurs/grundlaggande-programmering/kurslitteratur/).
 
 *Frågor kring denna kurs besvaras av [Johan Leitet](mailto:johan.leitet@lnu.se) eller [Mats Loock](mailto:mats.loock@lnu.se).*
 
 **Webbteknik I**:
-    * Felke-Morris, T. (senaste upplagan) Basics of Web Design, Addison Wesley Educational Publishers Inc.
-    Senaste upplagan är tredje upplagan från 2015, ISBN 9780133970746
-    * Garrett, J. J. (senaste upplagan) The Elements of User Experience, New Riders
-    Senaste upplagan är andra upplagan från 2010, ISBN 9780321683687
+ * Felke-Morris, T. (senaste upplagan) Basics of Web Design, Addison Wesley Educational Publishers Inc.
+ Senaste upplagan är tredje upplagan från 2015, ISBN 9780133970746
+ * Garrett, J. J. (senaste upplagan) The Elements of User Experience, New Riders
+ Senaste upplagan är andra upplagan från 2010, ISBN 9780321683687
 
 Frågor kring kursen Webbteknik I och dess litteratur besvaras av Rune Körnefors.
 
@@ -62,35 +63,35 @@ Om du inte har webbkamera och/eller headset redan idag så rekommenderar jag att
 “Räcker det inte med den inbyggda mikrofonen i datorn?” Mitt svar är kort och gott: nej, av erfarenhet vet vi att detta ofta är en källa till dålig ljudkvalitet och problem vid redovisningar vilket också kan ställa till det för andra som är med i samtalet. Headset och webbkamera är det som gäller. Testa även att kamera och ljud/mikrofon fungerar redan innan kursstart.
 
 Utrustningskrav campus:
-    * Bärbar dator (med Windows, Linux eller OSX)
+* Bärbar dator (med Windows, Linux eller OSX)
+
 Utrustningskrav distans:
-    * Dator (med Windows, Linux eller OSX)
-    * Headset (Mer information)
-    * Webbkamera (Mer information)
-    * Internetuppkoppling (Ej 3G)
+* Dator (med Windows, Linux eller OSX)
+* Headset (Mer information)
+* Webbkamera (Mer information)
+* Internetuppkoppling (Ej 3G)
 
 ##Programvaror
 För att kommunicera med kursledningen och genomföra redovisningar etc. används ofta programvaran [Skype](http://www.skype.se/) som jag rekommenderar att du installerar och provar redan innan kursstart (om du inte redan använder den det vill säga).
 Förutom Skype så används även [Adobe Connect](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-.html) flitigt för exempelvis strömmande föreläsningar och laborationer. För att Adobe Connect ska fungera så behöver du ha [Flash](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-/innan-du-borjar.html) installerat i din webbläsare, gärna senaste versionen.
 
 För att sköta kommunikation i kurser, chatta med kurskamrater etc. så använder vi webbtjänsten [“Slack“](http://coursepress.slack.com/). Här har du en utmärkt möjlighet att få all hjälp du behöver i början av dina studier. Logga in redan idag! För att logga in krävs det att du skapar ett nytt konto på Slack med din [e-postadress](http://lnu.se/student/vi-hjalper-dig/it-och-support/e-post) som är kopplad till ditt datorkonto.
-
-    * [Skype](http://www.skype.se/) 
-    * [“Slack“](http://coursepress.slack.com/)
-    * [Adobe Connect](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-.html)
+* [Skype](http://www.skype.se/) 
+* [“Slack“](http://coursepress.slack.com/)
+* [Adobe Connect](http://www.meetings.sunet.se/guider/att-delta-i-ett-mote-.html)
 
 ##Hur ska jag förbereda mig?
 Bästa sättet att förbereda sig inför utbildningen är att vila upp sig över sommaren för att sedan börja titta på kursernas webbplatser.
-
-    * [Grundläggande programmering](https://coursepress.lnu.se/kurs/grundlaggande-programmering/)
-    * [Webbteknik I](http://medieteknik.lnu.se/1me321/)
+ * [Grundläggande programmering](https://coursepress.lnu.se/kurs/grundlaggande-programmering/)
+ * [Webbteknik I](http://medieteknik.lnu.se/1me321/)
 
 På kursernas webbplatser kommer du att hitta information om hur du på bästa sätt kan förbereda dig för respektive kurs.
 Känner du dig otålig och kanske osäker på om du valt rätt så kan det vara en god idé att titta på någon av de MOOC-kurser som ges inom datavetenskap. Dessa kurser ger en introduktion till ämnet (computer science) och går igenom lite grundläggande programmering. Mycket kommer vi givetvis att repetera, men tidigare studenter har vittnat om att de tycker att dessa kurser gett dem en extra bra start på utbildningen. Återigen är det inget krav att titta igenom dessa utan se det som avancerad sommarlektyr om du är ivrig att komma igång.
 Förslag på kurser att läsa:
-    * [Computer Science 101, Stanford Univeristy (Coursera)](https://www.coursera.org/course/cs101)
-    * [Introduction to computer science, (Udacity)](https://www.udacity.com/course/cs101)
-    * [Introduction to computer science, HarvardX (edX)](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022#.U6rKB41_vfE)
+* [Computer Science 101, Stanford Univeristy (Coursera)](https://www.coursera.org/course/cs101)
+* [Introduction to computer science, (Udacity)](https://www.udacity.com/course/cs101)
+* [Introduction to computer science, HarvardX (edX)](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022#.U6rKB41_vfE)
+
 *En MOOC (Massive Open Online Course) är kurser från Universitet runt om i världen som ges helt öppet och fritt. Du går igenom kurserna självständigt genom tillhandahållet material och självrättande quizz. I vissa fall skickar man in uppgifter som andra studenter rättar. MOOCS är normalt sett helt gratis och öppna för vem som helst att läsa men på vissa kurser kan avgifter förekomma.*
 
 ##Var kan jag få svar på frågor?
