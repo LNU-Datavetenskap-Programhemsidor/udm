@@ -4,11 +4,11 @@ Jag som skriver detta heter Jacob Lindehoff och är programansvarig för program
 
 Som du säkert vet så går det att läsa utbildningen antingen på plats här i Kalmar eller på distans. Du som läser på distans behöver inte ta dig till Kalmar för några träffar, om du inte vill det vill säga.
 
-Utbildningen startar den 31 augusti (klockan 09.15) med välkomnande i Kalmar, jag räknar med att du som läser på campus är på plats då. Du som läser på distans kommer att kunna vara med live via en webbsändning. Har du ingen möjlighet att delta, varken på campus eller distans, så kommer informationen att spelas in och publiceras under [“Introduktion till programmet”](student/introduktion-till-programmet/).
+Utbildningen startar den **31 augusti** (klockan 09.15) med välkomnande i Kalmar, jag räknar med att du som läser på campus är på plats då. Du som läser på distans kommer att kunna vara med live via en webbsändning. Har du ingen möjlighet att delta, varken på campus eller distans, så kommer informationen att spelas in och publiceras under [“Introduktion till programmet”](student/introduktion-till-programmet/).
 
 ##Programstart
-Måndagen den 31 augusti, kl 09.15-10.15
-På plats: [Sal Kalmarsund (Brofästet Hotell & Konferens, Kalmar Nyckel, Vänster vid huvudingång)](http://www.hitta.se/LargeMap.aspx?z=1&mp=%3Cpts%3E%3Cpt%20x%3D%221533942%22%20y%3D%226283593%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533904%22%20y%3D%226283716%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533815%22%20y%3D%226283590%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EHuvudentr%E9%2C%20Kalmar%20Nyckel%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533769%22%20y%3D%226283604%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3ESal%3A%20Kalmarsund%3C/t%3E%3C/pt%3E%3C/pts%3E)
+Måndagen den 31 augusti, kl 09.15-10.15 <br />
+På plats: [Sal Kalmarsund (Brofästet Hotell & Konferens, Kalmar Nyckel, Vänster vid huvudingång)](http://www.hitta.se/LargeMap.aspx?z=1&mp=%3Cpts%3E%3Cpt%20x%3D%221533942%22%20y%3D%226283593%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533904%22%20y%3D%226283716%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533815%22%20y%3D%226283590%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EHuvudentr%E9%2C%20Kalmar%20Nyckel%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533769%22%20y%3D%226283604%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3ESal%3A%20Kalmarsund%3C/t%3E%3C/pt%3E%3C/pts%3E) <br />
 På distans: https://connect.sunet.se/kalmarsund/ (*Testa gärna att logga in med ditt nyuthämtade datorkonto även om det går bra att gå in som anonym användare*)
 
 ###Introduktion, eller så kallad “Nollning”
@@ -19,9 +19,9 @@ Väljer du att delta helt från distans så är inte just nollningen så mycket 
 ##Schema
 Den första utbildningsveckan är i mångt och mycket vigd till Den första utbildningsveckan är i mångt och mycket vigd till kursintroduktioner och information. Schemat för första perioden hittar du här:
 
-Schema för UDM Campus (Ej färdigt ännu)
+[Schema för UDM Campus](https://se.timeedit.net/web/lnu/db1/schema1/ri.html?h=f&sid=3&p=20150824.x%2C20160828.x&objects=113653.8&ox=0&types=0&fe=0&g=t&cch=5-22.8-42&ww=t&hsid=t&h2=f)
 
-Schema för UDM Distans (Ej färdigt ännu)
+[Schema för UDM Distans](https://se.timeedit.net/web/lnu/db1/schema1/ri.html?h=f&sid=3&p=20150824.x%2C20160828.x&objects=113654.8&ox=0&types=0&fe=0&g=t&cch=5-22.8-42&ww=t&hsid=t&h2=f)
 
 ##Hitta hit
 Jag har sammanställt en enkel [karta över Kalmar Nyckel](http://www.hitta.se/LargeMap.aspx?z=2&mp=%3Cpts%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283712%22%20x%3D%221533908%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283591%22%20x%3D%221533935%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283694%22%20x%3D%221533881%22%3E%3Ct%3EStudententr%E9%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283651%22%20x%3D%221533940%22%3E%3Ct%3EReception%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226282972%22%20x%3D%221534480%22%3E%3Ct%3EL%E5gprishotellet%20Svanen.%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283634%22%20x%3D%221533870%22%3E%3Ct%3EKalmar%20Nyckel%3C/t%3E%3C/pt%3E%3C/pts%3E) som är den byggnad i vilken vår utbildning är lokaliserad.
@@ -53,7 +53,7 @@ Information kring kurslitteratur till denna kurs [hittar du här](https://course
  * Garrett, J. J. (senaste upplagan) The Elements of User Experience, New Riders
  Senaste upplagan är andra upplagan från 2010, ISBN 9780321683687
 
-Frågor kring kursen Webbteknik I och dess litteratur besvaras av Rune Körnefors.
+*Frågor kring kursen Webbteknik I och dess litteratur besvaras av [Rune Körnefors](mailto:rune.kornefors@lnu.se).*
 
 ##Utrustning
 Från och med hösten 2015 har vi infört krav på att oavsett om man studerar på campus eller distans så ska man ha egen dator med till undervisningen. På distans går det bra med en stationär dator, men på campus behöver du en bärbar dator. Anledningen till detta är att det är väldigt svårt att få till en bra personlig utvecklingsmiljö på gemensamma datorer och den utvecklingsmiljö du kommer att arbeta i kommer att vara en otroligt viktig del av din utbildning. Det visar sig att oavsett om vi erbjuder datorer på plats i Kalmar så väljer de flesta studenter väldigt snart att skaffa egna datorer. För dig som läser på campus så kommer det att finnas ett begränsat antal fasta datorer i våra salar som du kan använda om du inte har möjlighet att skaffa en egen bärbar dator, men vi uppmanar dig ändå att investera i en dator då du kommer att ha en oerhörd nytta av denna under din tid hos oss.
@@ -62,10 +62,10 @@ Ska du läsa utbildningen på distans så **kräver vi** förutom en dator ocks�
 Om du inte har webbkamera och/eller headset redan idag så rekommenderar jag att du införskaffar detta innan kursstart.
 “Räcker det inte med den inbyggda mikrofonen i datorn?” Mitt svar är kort och gott: nej, av erfarenhet vet vi att detta ofta är en källa till dålig ljudkvalitet och problem vid redovisningar vilket också kan ställa till det för andra som är med i samtalet. Headset och webbkamera är det som gäller. Testa även att kamera och ljud/mikrofon fungerar redan innan kursstart.
 
-Utrustningskrav campus:
+### Utrustningskrav campus:
 * Bärbar dator (med Windows, Linux eller OSX)
 
-Utrustningskrav distans:
+### Utrustningskrav distans:
 * Dator (med Windows, Linux eller OSX)
 * Headset (Mer information)
 * Webbkamera (Mer information)
