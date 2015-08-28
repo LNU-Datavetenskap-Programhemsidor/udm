@@ -30,13 +30,27 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
   </div>
 </article>
 
-##2. Introduktionsföreläsning
+##2a. Introduktionsföreläsning - Gemensamt med Webbprogrammerare
 <article class="message-box table-cell schedule">
   <header class="message-box-header">
     <h2><span>När, var?</span></h2>
   </header>
   <div class="message-box-content">
     Måndagen den 31 augusti kl. 11.15 <br />
+    1. På plats: Sal Ny105 <br />
+    2. På distans: <a href="http://connect.sunet.se/webbprogrammerare">http://connect.sunet.se/webbprogrammerare</a>
+
+    Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
+  </div>
+</article>
+
+##2b. Introduktionsföreläsning - UDM
+<article class="message-box table-cell schedule">
+  <header class="message-box-header">
+    <h2><span>När, var?</span></h2>
+  </header>
+  <div class="message-box-content">
+    Måndagen den 31 augusti kl. 13.15 <br />
     1. På plats: Sal Ny110 <br />
     2. På distans: <a href="http://connect.sunet.se/udm">http://connect.sunet.se/udm</a>
   </div>
