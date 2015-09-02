@@ -56,8 +56,8 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
   <div class="message-box-content">
     <del>Måndage den 31 augusti kl. 14.15 <br />
     1. På plats: Sal Ny105 <br />
-    2. På distans: <a href="https://connect.sunet.se/lecture-1dv021">https://connect.sunet.se/lecture-1dv021</a> <br />
-    För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a></del>
+    2. På distans: <a href="https://connect.sunet.se/lecture-1dv021">https://connect.sunet.se/lecture-1dv021</a> <br /></del>
+    För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a>
   </div>
 </article>
 
