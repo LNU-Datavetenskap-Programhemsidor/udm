@@ -24,9 +24,8 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
   </header>
   <div class="message-box-content">
     ~~Måndagen den 31 augusti kl. 09.15 <br />
-
     1. På plats: <a href="http://www.hitta.se/LargeMap.aspx?z=1&amp;mp=%3Cpts%3E%3Cpt%20x%3D%221533942%22%20y%3D%226283593%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533904%22%20y%3D%226283716%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533815%22%20y%3D%226283590%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EHuvudentr%E9%2C%20Kalmar%20Nyckel%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533769%22%20y%3D%226283604%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3ESal%3A%20Kalmarsund%3C/t%3E%3C/pt%3E%3C/pts%3E">Sal, Kalmarsund</a><br />
-    2. På distans: <a href="https://connect.sunet.se/kalmarsund/">https://connect.sunet.se/kalmarsund/</a>~~
+    2. På distans: <a href="https://connect.sunet.se/kalmarsund/">https://connect.sunet.se/kalmarsund/</a> ~~
       
     <a href="https://connect.sunet.se/p1un3zex7o0/">Inspelning 2015-08-31 (Adobe Connect)</a>
   </div>
@@ -38,12 +37,13 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
     <h2><span>När, var?</span></h2>
   </header>
   <div class="message-box-content">
-   ~~Måndagen den 31 augusti kl. 11.15 <br />
+   <del>Måndagen den 31 augusti kl. 11.15 <br />
     1. På plats: Sal Ny105 <br />
-    2. På distans: <a href="http://connect.sunet.se/webbprogrammerare">http://connect.sunet.se/webbprogrammerare</a>~~
-    * <a href="https://connect.sunet.se/p4kh4mtylml/">Inspelning 2015-08-31 11.15-12.00 (Adobe Connect)</a>
-    * <a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a>
-    * <a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a> (YouTube)
+    2. På distans: <a href="http://connect.sunet.se/webbprogrammerare">http://connect.sunet.se/webbprogrammerare</a></del>
+    
+* <a href="https://connect.sunet.se/p4kh4mtylml/">Inspelning 2015-08-31 11.15-12.00 (Adobe Connect)</a>
+* <a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a>
+* <a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a> (YouTube)
   </div>
 </article>
 Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
@@ -54,10 +54,10 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
     <h2><span>Grundläggande programmering</span></h2>
   </header>
   <div class="message-box-content">
-    ~~Måndage den 31 augusti kl. 14.15 <br />
+    <del>Måndage den 31 augusti kl. 14.15 <br />
     1. På plats: Sal Ny105 <br />
     2. På distans: <a href="https://connect.sunet.se/lecture-1dv021">https://connect.sunet.se/lecture-1dv021</a> <br />
-    För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a>~~
+    För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a></del>
   </div>
 </article>
 
