@@ -43,7 +43,7 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
     <ul>
       <li><a href="https://connect.sunet.se/p4kh4mtylml/">Inspelning 2015-08-31 11.15-12.00 (Adobe Connect)</a></li>
       <li><a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a></li>
-      <li><a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a> (YouTube)</li>
+      <li><a href="https://youtu.be/KcrDZs0b6_s">Inspelning 2015-08-31 11.15-14.00</a> (YouTube)</li>
     </ul>
   </div>
 </article>
