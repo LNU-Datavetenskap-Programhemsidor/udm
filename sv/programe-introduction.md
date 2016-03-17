@@ -8,7 +8,7 @@ Introduktionen sker sedan i tre steg:
 2. Rundvandring och programintroduktion tillsammans med programmet
 3. Kursintroduktioner i Grundläggande programmering samt Webbteknik 1
 
-Du hittar deltaljerad information kring välkomnandet nedan. 
+Du hittar deltaljerad information kring välkomnandet nedan.
 
 Återigen välkommen! Nu åker vi!
 
@@ -64,7 +64,7 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
     </ul>
    </div>
  </article>
- 
+
 ##3. Kursintroduktioner
 <article class="message-box table-cell schedule">
   <header class="message-box-header">
@@ -83,9 +83,9 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
     <h2><span>Webbteknik I</span></h2>
   </header>
   <div class="message-box-content">
-    T.B.A <br />
+    <del>T.B.A <br />
     1. På plats: T.B.A <br />
-    2. På distans: T.B.A <br />
+    2. På distans: T.B.A <br /></del>
 
     För mer information och inspelning se <a href="http://medieteknik.lnu.se/1me321/">kursens webbplats.</a>
   </div>
