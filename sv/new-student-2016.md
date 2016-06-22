@@ -8,7 +8,7 @@ Utbildningen startar den **29 augusti** (klockan 09.15) med välkomnande i Kalma
 
 ## Programstart
 Måndagen den 29 augusti, kl 09.15-10.15 <br />
-På plats: [Sal Kalmarsund (Brofästet Hotell & Konferens, Kalmar Nyckel, Vänster vid huvudingång)](http://www.hitta.se/LargeMap.aspx?z=1&mp=%3Cpts%3E%3Cpt%20x%3D%221533942%22%20y%3D%226283593%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533904%22%20y%3D%226283716%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533815%22%20y%3D%226283590%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EHuvudentr%E9%2C%20Kalmar%20Nyckel%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533769%22%20y%3D%226283604%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3ESal%3A%20Kalmarsund%3C/t%3E%3C/pt%3E%3C/pts%3E) <br />
+På plats: Sal Kalmarsund (Brofästet Hotell & Konferens, Kalmar Nyckel, Vänster vid huvudingång <br />
 På distans: [Live](https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/live)
 
 ### Inspelning av utbildningsstart
