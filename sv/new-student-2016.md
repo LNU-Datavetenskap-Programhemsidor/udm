@@ -98,7 +98,7 @@ Förslag på kurser att läsa:
 Förslag för att komma igång med javascript:
 * [Learn JavaScript (Codeschool)](https://www.codeschool.com/learn/javascript)
 * [Learn JavaScript (CodeCademy)](https://www.codecademy.com/learn/javascript)
-* 
+
 *Online-kurserna ovan har delar som är gratis och som är utmärkta som en introduktion inför programmet.*
 
 ##Var kan jag få svar på frågor?
