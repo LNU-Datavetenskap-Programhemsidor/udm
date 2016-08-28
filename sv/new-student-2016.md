@@ -7,9 +7,9 @@ Som du säkert vet så går det att läsa utbildningen antingen på plats här i
 Utbildningen startar den **29 augusti** (klockan 09.15) med välkomnande i Kalmar, jag räknar med att du som läser på campus är på plats då. Du som läser på distans kommer att kunna vara med live via en webbsändning. Har du ingen möjlighet att delta, varken på campus eller distans, så kommer informationen att spelas in och publiceras nedan efter det att aktiviteten genomförts.
 
 ## Programstart
-Måndagen den 29 augusti, kl 09.15-10.15 <br />
-På plats: Sal Kalmarsund (Brofästet Hotell & Konferens, Kalmar Nyckel, Vänster vid huvudingång <br />
-På distans: [Live](https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/live)
+Måndagen den 29 augusti, kl 09.15-10.15 <br/>
+På plats: [Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)](https://www.openstreetmap.org/#map=18/56.67850/16.35870)</a>
+På distans: [Live](https://coursepress.lnu.se/kalmarsund)
 
 ### Inspelning av utbildningsstart
 Kommer att presenteras här när den är genomförd.
@@ -51,10 +51,8 @@ Information kring kurslitteratur till denna kurs [hittar du här](https://course
 *Frågor kring denna kurs besvaras av [Johan Leitet](mailto:johan.leitet@lnu.se) eller [Mats Loock](mailto:mats.loock@lnu.se).*
 
 **Webbteknik I**:
- * Felke-Morris, T. (senaste upplagan) Basics of Web Design, Addison Wesley Educational Publishers Inc.
- Senaste upplagan är tredje upplagan från 2015, ISBN 9780133970746
- * Garrett, J. J. (senaste upplagan) The Elements of User Experience, New Riders
- Senaste upplagan är andra upplagan från 2010, ISBN 9780321683687
+[Information kring kurslitteratur till denna kurs hittar du här.](http://medieteknik.lnu.se/1me321/litteratur.htm)
+
 
 *Frågor kring kursen Webbteknik I och dess litteratur besvaras av [Rune Körnefors](mailto:rune.kornefors@lnu.se).*
 

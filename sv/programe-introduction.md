@@ -1,6 +1,6 @@
 Välkommen som ny programstudent! På denna sida hittar du all information som ges kring uppstarten av dina studier och är en bra startpunkt för att du ska kunna komma igång så fort som möjligt.
 
-Har du inte ännu tittat på [informationen för dig som är ny student 2015](//coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny2015/) så ber jag dig börja med det.
+Har du inte ännu tittat på [informationen för dig som är ny student 2016](//coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny2016/) så ber jag dig börja med det.
 
 Introduktionen sker sedan i tre steg:
 
@@ -13,7 +13,7 @@ Du hittar deltaljerad information kring välkomnandet nedan.
 Återigen välkommen! Nu åker vi!
 
 <h2>Dokument</h2>
-Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite annan kringinformation som delas ut på campus.
+Här hittar du de presentationer som hålls under måndagen den 29/8 samt lite annan kringinformation som delas ut på campus.
 
 [Karta över Campus Kalmar](http://orion.lnu.se/pub/education/programme/webbprogrammerare/student/introduktion/2012/Karta%20%C3%B6ver%20LNU,%20campus%20Kalmar.pdf)
 
@@ -23,11 +23,12 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
     <h2><span>När, var?</span></h2>
   </header>
   <div class="message-box-content">
-    <del>Måndagen den 31 augusti kl. 09.15 <br />
-    1. På plats: <a href="http://www.hitta.se/LargeMap.aspx?z=1&amp;mp=%3Cpts%3E%3Cpt%20x%3D%221533942%22%20y%3D%226283593%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533904%22%20y%3D%226283716%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533815%22%20y%3D%226283590%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EHuvudentr%E9%2C%20Kalmar%20Nyckel%3C/t%3E%3C/pt%3E%3Cpt%20x%3D%221533769%22%20y%3D%226283604%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3ESal%3A%20Kalmarsund%3C/t%3E%3C/pt%3E%3C/pts%3E">Sal, Kalmarsund</a><br />
-    2. På distans: <a href="https://connect.sunet.se/kalmarsund/">https://connect.sunet.se/kalmarsund/</a></del><br />
+    Måndagen den 29 augusti kl. 09.15 <br />
+    1. På plats: [Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)](https://www.openstreetmap.org/#map=18/56.67850/16.35870)</a>
+    2. På distans: [Live](https://coursepress.lnu.se/kalmarsund)
+    <br />
 
-<p><a href="https://connect.sunet.se/p1un3zex7o0/">Inspelning 2015-08-31 (Adobe Connect)</a></p>
+<p><del><a href="#">Inspelning 2015-08-29 (YouTube)</a><del></p>
   </div>
 </article>
 
@@ -37,33 +38,13 @@ Här hittar du de presentationer som hålls under måndagen den 31/8 samt lite a
     <h2><span>När, var?</span></h2>
   </header>
   <div class="message-box-content">
-   <del>Måndagen den 31 augusti kl. 11.15 <br />
-    1. På plats: Sal Ny105 <br />
-    2. På distans: <a href="http://connect.sunet.se/webbprogrammerare">http://connect.sunet.se/webbprogrammerare</a></del><br />
-    <ul>
-      <li><a href="https://connect.sunet.se/p4kh4mtylml/">Inspelning 2015-08-31 11.15-12.00 (Adobe Connect)</a></li>
-      <li><a href="https://connect.sunet.se/p8on76lphwl/">Inspelning 2015-08-31 13.15-14.00 (Adobe Connect)</a></li>
-      <li><a href="https://youtu.be/KcrDZs0b6_s">Inspelning 2015-08-31 11.15-14.00</a> (YouTube)</li>
-    </ul>
+   Måndagen den 29 augusti kl. 11.00 <br />
+    1. På plats: Sal NY230 <br />
+    2. På distans: <a href="http://www.youtube.com/channel/UCfnbjVPdmtULgIVX7ZcB_fw/live"> Computer Science Play 2 på YouTube.</a><br />
+
   </div>
 </article>
 Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
-
-##2b. Introduktionsföreläsning - UDM
- <article class="message-box table-cell schedule">
-   <header class="message-box-header">
-     <h2><span>När, var?</span></h2>
-   </header>
-   <div class="message-box-content">
-    <del>Onsdagen den 9 september kl. 11.00 <br />
-    1. På plats: Sal Ny105 <br />
-    2. På distans: <a href="http://connect.sunet.se/udm">http://connect.sunet.se/udm</a> </del><br />
-    <ul>
-      <li><a href="https://connect.sunet.se/p1ec3w6e7pw/">Inspelning 2015-09-09 11.00-11.45 (Adobe Connect)</a></li>
-      <li><a href="http://youtu.be/OUyN8_7koE0">Inspelning 2015-09-09 11.00-11.45</a> (YouTube)</li>
-    </ul>
-   </div>
- </article>
 
 ##3. Kursintroduktioner
 <article class="message-box table-cell schedule">
@@ -71,9 +52,9 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
     <h2><span>Grundläggande programmering</span></h2>
   </header>
   <div class="message-box-content">
-    <del>Måndage den 31 augusti kl. 14.15 <br />
-    1. På plats: Sal Ny105 <br />
-    2. På distans: <a href="https://connect.sunet.se/lecture-1dv021">https://connect.sunet.se/lecture-1dv021</a> <br /></del>
+    <del>Måndage den 29 augusti kl. 14.15 <br />
+    1. På plats: Sal Ny230 <br />
+    2. På distans: <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering/live/">https://coursepress.lnu.se/kurs/grundlaggande-programmering/live/</a> <br /></del>
     För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a>
   </div>
 </article>
@@ -83,9 +64,9 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
     <h2><span>Webbteknik I</span></h2>
   </header>
   <div class="message-box-content">
-    <del>T.B.A <br />
-    1. På plats: T.B.A <br />
-    2. På distans: T.B.A <br /></del>
+    Onsdagen den 31 augusti kl. 10.00 <br />
+    1. På plats: NY230 <br />
+    2. På distans:  <a href="https://connect.sunet.se/lektioner-1me321/">https://connect.sunet.se/lektioner-1me321/</a><br />
 
     För mer information och inspelning se <a href="http://medieteknik.lnu.se/1me321/">kursens webbplats.</a>
   </div>
