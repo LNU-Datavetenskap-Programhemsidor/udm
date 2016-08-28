@@ -1,6 +1,6 @@
 Välkommen som ny programstudent! På denna sida hittar du all information som ges kring uppstarten av dina studier och är en bra startpunkt för att du ska kunna komma igång så fort som möjligt.
 
-Har du inte ännu tittat på [informationen för dig som är ny student 2016](//coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny2016/) så ber jag dig börja med det.
+Har du inte ännu tittat på [informationen för dig som är ny student 2016](/coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny-student/) så ber jag dig börja med det.
 
 Introduktionen sker sedan i tre steg:
 
@@ -24,8 +24,8 @@ Här hittar du de presentationer som hålls under måndagen den 29/8 samt lite a
   </header>
   <div class="message-box-content">
     Måndagen den 29 augusti kl. 09.15 <br />
-    1. På plats: [Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)](https://www.openstreetmap.org/#map=18/56.67850/16.35870)</a>
-    2. På distans: [Live](https://coursepress.lnu.se/kalmarsund)
+    1. På plats: <a href="https://www.openstreetmap.org/#map=18/56.67850/16.35870">Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)</a> <br/>
+    2. På distans:  <a href="https://coursepress.lnu.se/kalmarsund">Live</a>
     <br />
 
 <p><del><a href="#">Inspelning 2015-08-29 (YouTube)</a><del></p>
@@ -52,9 +52,9 @@ Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
     <h2><span>Grundläggande programmering</span></h2>
   </header>
   <div class="message-box-content">
-    <del>Måndage den 29 augusti kl. 14.15 <br />
+    Måndage den 29 augusti kl. 14.15 <br />
     1. På plats: Sal Ny230 <br />
-    2. På distans: <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering/live/">https://coursepress.lnu.se/kurs/grundlaggande-programmering/live/</a> <br /></del>
+    2. På distans: <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering/live/">https://coursepress.lnu.se/kurs/grundlaggande-programmering/live/</a> <br />
     För mer information och inspelning se <a href="https://coursepress.lnu.se/kurs/grundlaggande-programmering">kursens webbplats</a>
   </div>
 </article>

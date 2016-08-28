@@ -8,7 +8,7 @@ Utbildningen startar den **29 augusti** (klockan 09.15) med välkomnande i Kalma
 
 ## Programstart
 Måndagen den 29 augusti, kl 09.15-10.15 <br/>
-På plats: [Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)](https://www.openstreetmap.org/#map=18/56.67850/16.35870)</a>
+På plats: [Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)](https://www.openstreetmap.org/#map=18/56.67850/16.35870)</a> <br/>
 På distans: [Live](https://coursepress.lnu.se/kalmarsund)
 
 ### Inspelning av utbildningsstart
