@@ -28,6 +28,7 @@ Den första utbildningsveckan är i mångt och mycket vigd till Den första utbi
 
 ##Hitta hit
 Jag har sammanställt en enkel [karta över Kalmar Nyckel](http://www.hitta.se/LargeMap.aspx?z=2&mp=%3Cpts%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283712%22%20x%3D%221533908%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283591%22%20x%3D%221533935%22%3E%3Ct%3EFri%20parkering%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283694%22%20x%3D%221533881%22%3E%3Ct%3EStudententr%E9%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283651%22%20x%3D%221533940%22%3E%3Ct%3EReception%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226282972%22%20x%3D%221534480%22%3E%3Ct%3EL%E5gprishotellet%20Svanen.%3C/t%3E%3C/pt%3E%3Cpt%20i%3D%22http%3A//www.hitta.se/images/point.png%22%20y%3D%226283634%22%20x%3D%221533870%22%3E%3Ct%3EKalmar%20Nyckel%3C/t%3E%3C/pt%3E%3C/pts%3E) som är den byggnad i vilken vår utbildning är lokaliserad.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbZpbLA4DsU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
 
 ##Datorkonto
 Ett av de viktigaste momenten för dig att så tidigt som möjligt ordna upp är att se till att du kvitterar ut ditt datorkonto. Med hjälp av kontot så kan du bland annat:
