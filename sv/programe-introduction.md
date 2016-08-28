@@ -27,8 +27,6 @@ Här hittar du de presentationer som hålls under måndagen den 29/8 samt lite a
     1. På plats: <a href="https://www.openstreetmap.org/#map=18/56.67850/16.35870">Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)</a> <br/>
     2. På distans:  <a href="https://coursepress.lnu.se/kalmarsund">Live</a>
     <br />
-
-<p><del><a href="#">Inspelning 2015-08-29 (YouTube)</a><del></p>
   </div>
 </article>
 
