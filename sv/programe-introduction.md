@@ -23,10 +23,13 @@ Här hittar du de presentationer som hålls under måndagen den 29/8 samt lite a
     <h2><span>När, var?</span></h2>
   </header>
   <div class="message-box-content">
-    Måndagen den 29 augusti kl. 09.15 <br />
+    <del>Måndagen den 29 augusti kl. 09.15 <br />
     1. På plats: <a href="https://www.openstreetmap.org/#map=18/56.67850/16.35870">Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, Vänster vid huvudingång)</a> <br/>
     2. På distans:  <a href="https://coursepress.lnu.se/kalmarsund">Live</a>
-    <br />
+    <br /></del>
+
+    Inspelning<br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MfYgj5rTHks?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </article>
 
