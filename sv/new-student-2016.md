@@ -12,7 +12,7 @@ På plats: [Sal Kalmarsund (Brofästet Hotell &amp; Konferens, Kalmar Nyckel, V
 På distans: [Live](https://coursepress.lnu.se/kalmarsund)
 
 ### Inspelning av utbildningsstart
-Kommer att presenteras här när den är genomförd.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MfYgj5rTHks?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ###Introduktion, eller så kallad “Nollning”
 För att få dig att trivas lite extra så kommer vår studentförening att anordna en introduktion under två veckor för dig och dina kurskamrater. Om du vill vara med på denna introduktion behöver du vara på plats i Kalmar redan veckan innan utbildningsstarten. Mer information om detta har du fått från/hittar du på studentföreningen [SPIIK](http://nollning.spiik.com/).
