@@ -39,10 +39,12 @@ Här hittar du de presentationer som hålls under måndagen den 29/8 samt lite a
     <h2><span>När, var?</span></h2>
   </header>
   <div class="message-box-content">
-   Måndagen den 29 augusti kl. 11.00 <br />
+   <del>Måndagen den 29 augusti kl. 11.00 <br />
     1. På plats: Sal NY230 <br />
-    2. På distans: <a href="http://www.youtube.com/channel/UCfnbjVPdmtULgIVX7ZcB_fw/live"> Computer Science Play 2 på YouTube.</a><br />
+    2. På distans: <a href="http://www.youtube.com/channel/UCfnbjVPdmtULgIVX7ZcB_fw/live"> Computer Science Play 2 på YouTube.</a><br /></del>
 
+    Inspelning<br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/480jtvBMoOw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </article>
 Vi bjuder campusstudenter på lunch mellan 12.00 och 13.00
