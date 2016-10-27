@@ -5,7 +5,7 @@ Nedan följer de kurser som ingår i programmet Utveckling och Drift av Mjukvaru
 | [Webbteknik 1](#1ME321)                                    | [Systemadministration 2](#sysadm2)                         | [Server Configuration Management](#confman)                | 
 | [Grundläggande programmering](#1DV021)                     | [Objektorienterad analys och design med UML](#1DV607)      | [Internetsäkerhet](#2DV103)                                |
 | [Klientbaserad webbprogrammering](#1DV022)                 | [Mjukvarutestning](#2DV610)                                | [Continuous Delivery](#contdel)                            | 
-| [Problemlösning och programmering](#1DV007)                | [Databasteknik](#db)                                       | [Programvaruarkitekturer](#2DV104)                         | 
+| [Problemlösning och programmering](#1DV007)                | [Databasteori](#db)                                       | [Programvaruarkitekturer](#2DV104)                         | 
 | [Programvaruteknik](#1DV100)                               | [Serverbaserad webbprogrammering](#serverweb)              | [Valfri kurs i annat ämne](#annat)                         | 
 | [Problemlösning och datastrukturer](#1DV506)               | [Programvaruteknik - Design](#2DV103)                      | [Examensarbete](#2DV00E)                                   |
 | [Systemadministration 1](#sysadm1)                         |                                                            |                                                            |
@@ -67,9 +67,9 @@ Framställning av webbaserad mjukvara med hög kodkvalitet.
 * [Kursplan](http://prod.kursinfo.lnu.se/utbildning/GenerateDocument.ashx?templatetype=coursesyllabus&amp;code=2DV610&amp;documenttype=pdf&amp;lang=sv)
 * [Kursens webbplats](https://coursepress.lnu.se/kurs/mjukvarutestning/)
 
-## <a name="db"></a>Databasteknik
+## <a name="db"></a>Databasteori
 Metoder och teorier för databasdesign. Frågespråk, Dokument- och relationsdatabaser, SQL.
-* [Kursplan](http://prod.kursinfo.lnu.se/utbildning/GenerateDocument.ashx?templatetype=coursesyllabus&amp;code=db&amp;documenttype=pdf&amp;lang=sv)
+* [Kursplan](#)
 * [Kursens webbplats](#)
 
 ## <a name="serverweb"></a>Serverbaserad webbprogrammering
