@@ -1,6 +1,6 @@
 ## Kurser i andra ämnen
 
-Under andra läsåret så är det i höstterminens andra läsperiod som det är planerat att läsa en valfri kurs, och i tredje året så är det i höstterminens första läsperiod som man ska läsa en valfri kurs (och under andra läsperioden om man skulle välja bort Entreprenörsskap). Så kursförslagen här är listade efter intresseområde (denna lista är dock preliminär och kan ändras då olika lärosäten kan ändra kurstillfällen).
+Under andra läsåret så är det i vårterminens andra läsperiod som det är planerat att läsa en valfri kurs, och i tredje året så är det i vårterminens första läsperiod som man ska läsa en valfri kurs (och under andra läsperioden om man skulle välja bort Entreprenörsskap). Så kursförslagen här är listade efter intresseområde (denna lista är dock preliminär och kan ändras då olika lärosäten kan ändra kurstillfällen).
 
 **OBS! Sista anmälningsdag för kurser på vårterminen 2017 är _15 oktober 2016_!**
 
