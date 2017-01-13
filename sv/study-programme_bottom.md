@@ -7,7 +7,7 @@ Java, HTML, CSS, JavaScript, relationsdatabaser, dokumentdatabaser, UML, design 
 Du hittar en fullständig listning av [programmets kurser här](vara-kurser/).
 
 ## Behörighetsvillkor
-För att söka utbildningen krävs att du har grundläggande behörighet samt Matematik D eller Matematik 3c.
+För att söka utbildningen krävs att du har grundläggande behörighet samt Matematik B eller Matematik 2a / 2b / 2c (2a eller 2b eller 2c).
 
 ## Examen
 Utbildningen leder till en kandidatexamen med huvudområdet datavetenskap.
