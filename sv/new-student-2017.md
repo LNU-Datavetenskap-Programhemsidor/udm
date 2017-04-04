@@ -48,13 +48,11 @@ Det kan vara en god idé att beställa kurslitteratur till höstens första kurs
 
 De två kurser du kommer att inleda dina studier med är “[Grundläggande programmering](https://coursepress.lnu.se/kurs/grundlaggande-programmering/)” och “[Webbteknik I](http://medieteknik.lnu.se/1me321/)“.
 
-Grundläggande programmering:
-* [Information kring kurslitteratur till denna kurs hittar du här.](https://coursepress.lnu.se/kurs/grundlaggande-programmering/kurslitteratur/)
+Grundläggande programmering, [Information kring kurslitteratur till denna kurs hittar du här.](https://coursepress.lnu.se/kurs/grundlaggande-programmering/kurslitteratur/)
 
 *Frågor kring denna kurs besvaras av [Johan Leitet](mailto:johan.leitet@lnu.se) eller [Mats Loock](mailto:mats.loock@lnu.se).*
 
-**Webbteknik I**:
-[Information kring kurslitteratur till denna kurs hittar du här.](http://medieteknik.lnu.se/1me321/litteratur.htm)
+**Webbteknik I**, [Information kring kurslitteratur till denna kurs hittar du här.](http://medieteknik.lnu.se/1me321/litteratur.htm)
 
 
 *Frågor kring kursen Webbteknik I och dess litteratur besvaras av [Rune Körnefors](mailto:rune.kornefors@lnu.se).*
@@ -101,6 +99,7 @@ Förslag för att komma igång med javascript:
 Det kan också vara smart att ögna igenom webbplatserna för de kurser du kommer att läsa de första tio veckorna på utbildningen. Du hittar dessa här:
  * [Grundläggande programmering](https://coursepress.lnu.se/kurs/grundlaggande-programmering/)
  * [Webbteknik I](http://medieteknik.lnu.se/1me321/)
+
 På kursernas webbplatser kommer du att hitta information om hur du på bästa sätt kan förbereda dig för respektive kurs.
 
 ##Var kan jag få svar på frågor?
