@@ -52,7 +52,7 @@ Grundläggande programmering, [Information kring kurslitteratur till denna kurs 
 
 *Frågor kring denna kurs besvaras av [Johan Leitet](mailto:johan.leitet@lnu.se) eller [Mats Loock](mailto:mats.loock@lnu.se).*
 
-**Webbteknik I**, [Information kring kurslitteratur till denna kurs hittar du här.](http://medieteknik.lnu.se/1me321/litteratur.htm)
+Webbteknik I, [Information kring kurslitteratur till denna kurs hittar du här.](http://medieteknik.lnu.se/1me321/litteratur.htm)
 
 
 *Frågor kring kursen Webbteknik I och dess litteratur besvaras av [Rune Körnefors](mailto:rune.kornefors@lnu.se).*
