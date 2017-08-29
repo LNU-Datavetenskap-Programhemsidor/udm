@@ -1,6 +1,6 @@
 Välkommen som ny programstudent! På denna sida hittar du all information som ges kring uppstarten av dina studier och är en bra startpunkt för att du ska kunna komma igång så fort som möjligt.
 
-Har du inte ännu tittat på [informationen för dig som är ny student 2017](/coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny-student/) så ber jag dig börja med det.
+Har du inte ännu tittat på [informationen för dig som är ny student 2017](https://coursepress.lnu.se/program/utveckling-och-drift-av-mjukvarusystem/ny-student/) så ber jag dig börja med det.
 
 Introduktionen sker sedan i tre steg:
 
