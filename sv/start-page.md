@@ -4,4 +4,4 @@
 
 Nästa sökbara utbildningsstart är HT2018 med sista ansökningsdag 2018-04-16.
 
-Vill du veta [Kontakta oss](/program/utveckling-och-drift-av-mjukvarusystem/kontakt/) eller titta runt på sajten.
+Vill du veta mer, [Kontakta oss](/program/utveckling-och-drift-av-mjukvarusystem/kontakt/) eller titta runt på sajten.
