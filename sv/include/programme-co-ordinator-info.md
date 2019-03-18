@@ -1,8 +1,8 @@
-**Jacob Lindehoff**<br />
+**Johan Leitet**<br />
 Linnéuniversitetet<br />
 Institutionen för datavetenskap<br />
 391 82 Kalmar
 
-0480-497705
+0480-497716
 
-jacob.lindehoff@lnu.se<br />
+udm@lnu.se<br />
